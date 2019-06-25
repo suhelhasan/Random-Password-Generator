@@ -1,0 +1,61 @@
+body{
+   background: #3a7bd5;
+   background: -webkit-linear-gradient(to right, #3a6073, #3a7bd5);
+   background: linear-gradient(to right, #3a6073, #3a7bd5);
+
+
+}
+
+.container {
+
+    margin: 0 auto;
+    margin-top: 180px;
+    font-size: 3em;
+    text-align: center;
+
+}
+
+.out{
+    
+    margin-bottom: 10px;
+    width:50%;
+    text-align: center;
+    color:#f63;
+    border-radius: 5px;
+}
+
+.myBtn{
+   padding:20px 20px;
+   font-size: 70px;
+   margin-bottom: 20px;
+   width:50%;
+}
+.pass{
+    width:50%;
+    float: left;
+    font-size: 30px;
+    color:#fff;
+    margin-left: 50px;
+    margin-right:10px;
+    padding:20px 20px 20px 20px;
+    background-color: #f63;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.in{
+    margin-left:0px;
+    padding: 5px;
+    float: left;
+    text-align: center;
+    background-color: #fff;
+    color:#f63;
+    border-radius: 5px;
+    margin:0px;
+    
+}
+.new{
+    
+    margin:0 auto;
+  
+}
